@@ -1,0 +1,11 @@
+C:\Users\josda\source\repos\ProyectoLFA\ProyectoLFA\bin\Debug\ProyectoLFA.exe.config
+C:\Users\josda\source\repos\ProyectoLFA\ProyectoLFA\bin\Debug\ProyectoLFA.exe
+C:\Users\josda\source\repos\ProyectoLFA\ProyectoLFA\bin\Debug\ProyectoLFA.pdb
+C:\Users\josda\source\repos\ProyectoLFA\ProyectoLFA\obj\Debug\ProyectoLFA.csproj.AssemblyReference.cache
+C:\Users\josda\source\repos\ProyectoLFA\ProyectoLFA\obj\Debug\ProyectoLFA.Form1.resources
+C:\Users\josda\source\repos\ProyectoLFA\ProyectoLFA\obj\Debug\ProyectoLFA.Form2.resources
+C:\Users\josda\source\repos\ProyectoLFA\ProyectoLFA\obj\Debug\ProyectoLFA.Properties.Resources.resources
+C:\Users\josda\source\repos\ProyectoLFA\ProyectoLFA\obj\Debug\ProyectoLFA.csproj.GenerateResource.cache
+C:\Users\josda\source\repos\ProyectoLFA\ProyectoLFA\obj\Debug\ProyectoLFA.csproj.CoreCompileInputs.cache
+C:\Users\josda\source\repos\ProyectoLFA\ProyectoLFA\obj\Debug\ProyectoLFA.exe
+C:\Users\josda\source\repos\ProyectoLFA\ProyectoLFA\obj\Debug\ProyectoLFA.pdb
